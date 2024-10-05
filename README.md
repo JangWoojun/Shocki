@@ -1,6 +1,6 @@
 # Shocki
 > 쇼키
-![Group 18](https://github.com/user-attachments/assets/17a07dfa-1218-4b39-8d3b-e43eec245f24)
+커버
 
 ## 프로젝트 소개
 
